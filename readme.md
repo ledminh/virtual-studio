@@ -23,8 +23,8 @@ To select a plane, press "P", then "P" again to switch to another plane, and so 
 To select a light, press "L", then "L" again to switch to another light, and so on ...
 
 When a plane, a sphere or a light is selected, here are what you can do:
-	- Move up (increase y coordinate): press ARROW UP.
-	- Move up (decrease y coordinate): press ARROW DOWN.
+- Move up (increase y coordinate): press ARROW UP.
+- Move up (decrease y coordinate): press ARROW DOWN.
 	- Move left (decrease x coordinate): press ARROW LEFT.
 	- Move right (increase x coordinate): press ARROW RIGHT.
 	- Move backward (decrease z coordinate): press "W".
