@@ -2,6 +2,8 @@ This app uses raytracing algorithm to model how a camera works in real life. Onc
 
 It was written in C++ using openframeworks, one of the best frameworks I know so far for progammers with creativity. I coded this app in the Introduction to Graphic class I took at school and it became one of my most complex project I had ever done. I will go back to it some days in the future, but right now I’m focusing on React and web development. 
 
+DEMO: https://youtu.be/IAdXVS3MYoI
+
 INSTRUCTION
 ----------------
 1) Install openframeworks from here: https://openframeworks.cc/ 
