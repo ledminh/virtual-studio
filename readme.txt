@@ -1,10 +1,16 @@
-INSTRUCTION
+This app uses raytracing algorithm to model how a camera works in real life. Once open the app, user will see a setup with 1 camera, 2 planes, 3 balls with different sizes, and 2 lights. User can move and rotate the camera, its lenses can be zoom in or out. The 2 planes, one vertical and one horizontal, can also be moved, resized, and changed into different texture. User can also adjust the light intensitive, move and rotate them. The balls can also be resized and changed into different texture. User can add more lights and balls as well as remove them from the scene. After adjusting everything, user can press ENTER to “take a picture”. The picture will be shown up in the same folder with the app. 
+
+It was written in C++ using openframeworks, one of the best frameworks I know so far for progammers with creativity. I coded this app in the Introduction to Graphic class I took at school and it became one of my most complex project I had ever done. I will go back to it some days in the future, but right now I’m focusing on React and web development. 
+
+#INSTRUCTION#
 ----------------
-1) Copy all files in src to src folder
-2) Copy all files in data to bin/data folder
+1) Install openframeworks from here: https://openframeworks.cc/ 
+2) Copy all files in "src" to "src" folder in openframeworks' folder.
+3) Copy all files in "data" to "bin/data" folder in openframeworks' folder.
+4) Open a any C++ IDE of your choice and compile it.
  
 
-CONTROL KEYS:
+#CONTROL KEYS:#
 ----------------
 Press ENTER to run raytracing algorithm, then press SPACEBAR to save the photo to bin/data. The photo's name will 
 be image_x.jpg with x to be the next available number, starting from 1.
