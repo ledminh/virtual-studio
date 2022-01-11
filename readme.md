@@ -39,7 +39,8 @@ When a plane, a sphere or a light is selected, here are what you can do:
 
 ADDING OBJECT:
 - When you press "1", a point light will be added to the scene at the mouse's position.
-To add a point light to the scene, press "1", Add Point Light: "1", Add Spot Light: "2", Add Sphere: "3". 
+- When you press "1", as spot light will be added to the scene at the mouse's position.
+- When you press "1", a sphere will be added to the scene at the mouse's position. 
 
 In this program, you can manipulate Render Cam. Render Cam is the camera taking the picture when you press ENTER and
 SPACEBAR. It is presented on screen by a box and a plane is parallel to the box. The plane is the view box.
